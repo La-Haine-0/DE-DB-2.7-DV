@@ -27,5 +27,5 @@
 - В Satellite не должно быть строк-дубликатов.
 - Данные в Satellite разделяются по типу информации или по скорости изменения.
 ### Логика решения:
-ER-диаграмма полученного мной Data Vault (<code>[./DATAVAULT.png]()</code>)
+ER-диаграмма полученного мной Data Vault (<code>[./DATAVAULT.png](https://github.com/La-Haine-0/DE-DB-2.7-DV/blob/main/DATAVAULT.png)</code>)
 
